@@ -47,13 +47,13 @@ The best performance was achieved using **Random Forest**.
 
 ## Project Structure
 bank-customer-churn-prediction
-│
-├──utils
-├── data
-├── notebooks
-├── src
-├── images
-├── requirements.txt
-└── README.md
+
+- utils
+-  data
+-   notebooks
+-   src
+-   images
+-   requirements.txt
+-   README.md
 
 
